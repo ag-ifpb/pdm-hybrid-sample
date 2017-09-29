@@ -1,0 +1,49 @@
+/*
+-------------------------------------------
+Estilos Gerais
+-------------------------------------------
+*/
+* {
+    font-size: 14pt;
+}
+
+body{
+    padding: 10px;
+}
+
+/*
+-------------------------------------------
+Estilos - Home
+-------------------------------------------
+*/
+
+.home-content{
+}
+
+.home-content .image-box {
+    margin-top: 150px;
+}
+
+.home-content .button-box{
+    margin-top: 50px;
+}
+
+/*
+-------------------------------------------
+Estilos - Types
+-------------------------------------------
+*/
+
+.types-content{
+}
+
+.types-content .checkboxgroup-box {
+    margin-top: 10px;
+    font-size: 1.3em;
+}
+
+.types-content .button-box{
+    margin-top: 50px;
+}
+
+
